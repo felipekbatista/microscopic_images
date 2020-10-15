@@ -1,0 +1,22 @@
+v1.1
+  image pre-processing for improoving feature extraction
+    tests with different histograme qualization methods for improoving th eimage quality;
+   Pre-processing will not be used here, although the various histogram equalizations have shown as a good feature for adding in the img db
+    
+
+v1.0 
+  image processing
+    filter banks with features and variations
+      gauss filter with different sigma,
+      prewitt, scharr, sobel, roberts, canny
+      gabor with multiple kernels
+  ML model 
+    A RFC with n_estiamtors = 10;
+    To train the model, it was used 4 images previously segmented;
+    For evaluation of the features withing the model, a feature importance distribution histogram was plotted;
+ Test
+    3 images were used for testing;
+    the result showed a segmentation, but it had some salt grains sprayed all over the image
+    
+    
+  
