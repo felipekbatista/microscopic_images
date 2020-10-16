@@ -1,8 +1,11 @@
+v1.2
+  New features for the bank. Use original image and gaussian filter for the bank
+
 v1.1
   image pre-processing for improoving feature extraction
     tests with different histograme qualization methods for improoving th eimage quality;
-   Pre-processing will not be used here, although the various histogram equalizations have shown as a good feature for adding in the img db
-    
+  Pre-processing will not be used here, although the various histogram equalizations have shown as a good feature for adding in the img db
+    white gridlines showed up in all images, I could not figure out how to solve it
 
 v1.0 
   image processing
