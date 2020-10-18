@@ -7,7 +7,9 @@ v1.2
   v1.2.2
     use only the gaussian  filter as the feature
    
-   The image results from v1.2 showed an improvement 
+   The image results from v1.2 showed an improvement, although some difference between each version was still visible. 
+   So far the results in v1.2 with less salt grains were in v1.2.1 (check in image folder). 
+   comparison between versions v1.0, v1.1 and v1.2.1 showerd again v1.2.1 had less salt grains spread across the image, together with a more uniform image result.
 
 v1.1
   image pre-processing for improoving feature extraction
