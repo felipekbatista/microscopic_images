@@ -1,3 +1,6 @@
-The images are divided into 2 folders.
+The images are divided into 3 folders.
 
-The first one is the raw image for feature extraction and the second one is the template for training
+The first one is the raw image for feature extraction and the second one is the template for training.
+
+The third folder contains images that have been processed via he algorithm. There are 3 subfolders, each one numrated by an image. Each image contains the result of each
+code version. 
