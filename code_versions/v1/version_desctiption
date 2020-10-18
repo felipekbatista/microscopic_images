@@ -1,5 +1,13 @@
 v1.2
   New features for the bank. Use original image and gaussian filter for the bank
+  v1.2.0
+    use of the folowing features: original image and multiple gaussian features
+  v1.2.1
+    use only of original image as the feature, in grayscale
+  v1.2.2
+    use only the gaussian  filter as the feature
+   
+   The image results showed
 
 v1.1
   image pre-processing for improoving feature extraction
