@@ -1,3 +1,7 @@
+v1.3
+  Following the results of v1.2.1, some 3 new images will be used as templates for improving the model. 
+  The images that will be used are the ones that were used for tests in previous version. The new templates are uploaded in templates folder.
+
 v1.2
   New features for the bank. Use original image and gaussian filter for the bank
   v1.2.0
