@@ -1,10 +1,14 @@
 v1.4
-  after showing the results of the model to my friend, he analyzed them and gave me an answer to the results. He said that the model is doing a good job
-  on identifying the blak spots 
+  After showing the results of the model to my friend, he analyzed them and gave me a feedback on the results. 
+  The model showed a good response on ID'ing the junctions, both that are on focus and those that are blurred. The problem is that it is only of interest the junctions that 
+  are in focus, not the ones that are blurred. 
+  For improving the model, the idea is to update the template. Remake the template and select only the juntcions that are not blurred, that is the improvement of this version 
 
 v1.3
   Following the results of v1.2.1, some 3 new images are added as templates for improving the model. 
-  The images used are the ones that were used for tests in previous version. The new templates are uploaded in templates folder.
+  The images used are the ones that were used for tests in previous version. The new templates are uploaded in templates folder and the results are also in the respective folder.
+  The model showed good results on identifying the junctions and not some other parts that it ws previously identifying. Also the model presented less salt grains than 
+  previous runs
 
 v1.2
   New features for the bank. Use original image and gaussian filter for the bank
