@@ -1,6 +1,10 @@
+v1.4
+  after showing the results of the model to my friend, he analyzed them and gave me an answer to the results. He said that the model is doing a good job
+  on identifying the blak spots 
+
 v1.3
-  Following the results of v1.2.1, some 3 new images will be used as templates for improving the model. 
-  The images that will be used are the ones that were used for tests in previous version. The new templates are uploaded in templates folder.
+  Following the results of v1.2.1, some 3 new images are added as templates for improving the model. 
+  The images used are the ones that were used for tests in previous version. The new templates are uploaded in templates folder.
 
 v1.2
   New features for the bank. Use original image and gaussian filter for the bank
