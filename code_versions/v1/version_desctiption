@@ -1,8 +1,24 @@
+v1.5
+  Big elements and small elements are to be handled with a top hat transform
+  For the salt grains an opening or closing can be done
+  
 v1.4
   After showing the results of the model to my friend, he analyzed them and gave me a feedback on the results. 
   The model showed a good response on ID'ing the junctions, both that are on focus and those that are blurred. The problem is that it is only of interest the junctions that 
   are in focus, not the ones that are blurred. 
-  For improving the model, the idea is to update the template. Remake the template and select only the juntcions that are not blurred, that is the improvement of this version 
+  For improving the model, the idea is to update the template. Remake the template and select only the juntcions that are not blurred, that is the improvement of this version
+  
+  The results are in the folder images/results/
+ 
+  The comparison between the original images, v1.3 and v1.4 show an improvement within the selected junction. The selected junction is more likely not to be a blurry one and 
+  the ammount of salt grain is reduced in comparision with v1.3. Some big elements have also showed up, together with some small ones, but some posterior filtering can 
+  help improve the quality of the image.
+  
+  The next elements to be treated here are:
+    - big elements
+    - small elements
+    - faulty areas with some salt grains 
+  
 
 v1.3
   Following the results of v1.2.1, some 3 new images are added as templates for improving the model. 
